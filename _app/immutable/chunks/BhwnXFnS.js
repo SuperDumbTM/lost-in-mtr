@@ -1,0 +1,1 @@
+const o="Carriage Code",n="Door Code",t="Inbound",c="Outbound",r="Direction",e="Car {{number}}",i="Flip Direction",d={carriageCode:o,doorCode:n,inbound:t,outbound:c,direction:r,carNumber:e,flipDirection:i};export{e as carNumber,o as carriageCode,d as default,r as direction,n as doorCode,i as flipDirection,t as inbound,c as outbound};

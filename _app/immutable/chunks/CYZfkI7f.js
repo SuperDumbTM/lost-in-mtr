@@ -1,0 +1,1 @@
+const o="車廂編號",n="車門編號",c="上行",t="下行",e="方向",r="第 {{number}} 卡",s="調轉行車方向",d={carriageCode:o,doorCode:n,inbound:c,outbound:t,direction:e,carNumber:r,flipDirection:s};export{r as carNumber,o as carriageCode,d as default,e as direction,n as doorCode,s as flipDirection,c as inbound,t as outbound};

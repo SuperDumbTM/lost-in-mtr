@@ -1,0 +1,1 @@
+const t="機場快線",n="迪士尼線",o="東鐵線",s="港島線",c="觀塘線",L="南港島線",T="東涌線",e="將軍澳線",a="屯馬線",l="荃灣線",A={AEL:t,DRL:n,EAL:o,ISL:s,KTL:c,SIL:L,TCL:T,TKL:e,TML:a,TWL:l};export{t as AEL,n as DRL,o as EAL,s as ISL,c as KTL,L as SIL,T as TCL,e as TKL,a as TML,l as TWL,A as default};
